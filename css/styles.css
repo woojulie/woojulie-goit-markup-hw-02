@@ -9,9 +9,13 @@ a {
 button {
     cursor: pointer;
 }
+.contacts-nav {
+    font-style: normal
+}
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 /* ============ HEADER STYLES ============ */
@@ -19,9 +23,7 @@ body {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+        line-height: 1.17;
         color: #4d5ae5;
 }
 .gray-logo {
@@ -40,27 +42,29 @@ body {
 .contacts-link:focus {
     color: #404bbf;
 }
+.contacts-item {
+    line-height: 1.5
+    letter-spacing: 0.02em
+    color: #434455;
+}
 
-/* ============ HERO STYLES ============ */
+/* ============ HERO STYLES++++++++ ============ */
 .hero {
     background-color: #2e2f42;
 }
 .main-title {
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.08;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #fff;
 }
 .order-button {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
 
 }
 .order-button:hover,
 .order-button:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #404bbf;
 }
 
@@ -82,9 +86,8 @@ body {
 .team-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.1;
         letter-spacing: 0.02em;
-        text-align: center;
 }
 .team-list-title {
         font-weight: 500;
