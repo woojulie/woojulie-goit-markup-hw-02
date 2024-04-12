@@ -11,7 +11,7 @@ button {
 }
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455;
+    color: #2e2f42;
 }
 
 /* ============ HEADER STYLES ============ */
@@ -25,15 +25,14 @@ body {
         color: #4d5ae5;
 }
 .gray-logo {
-    color: #2e2f42;;
+    color: #2e2f42;
+    ;
 }
 .menu-link {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;
 }
 .menu-link:hover,
 .menu-link:focus, 
@@ -47,7 +46,6 @@ body {
     background-color: #2e2f42;
 }
 .main-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07143;
@@ -68,15 +66,12 @@ body {
 
 /* ============ BENEFITS STYLES ============ */
 .benefits-list-title {
-    font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;
 }
 .benefits-list-text {
-    font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -85,20 +80,18 @@ body {
 }
 
 /* ============ TEAM STYLES ============ */
-.team-header {
+.team-title {
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #2e2f42;
 }
 .team-list-title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2e2f42;
 }
 .team-list-text {
     font-weight: 400;
@@ -110,13 +103,13 @@ body {
 .team {
     background-color: #f4f4fd;
 }
-.footer {
+.page-bottom {
     background-color: #2e2f42;
 }
 .white-logo {
     color: #f4f4fd;
 }
-.footer-text {
+.bottom-text {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
