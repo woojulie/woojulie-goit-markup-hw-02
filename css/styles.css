@@ -92,7 +92,8 @@ body {
 .benefits-list-title {
         font-weight: 500;
         font-size: 20px;
-        line-height: 1.11;
+        line-height: 1.2;
+        color: #2e2f42;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
